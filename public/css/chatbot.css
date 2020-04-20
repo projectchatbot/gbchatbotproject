@@ -1,0 +1,80 @@
+﻿h1::first-letter {font-size: 38px;}
+
+
+select{
+	max-width: 90%;
+    padding: 3px 10px;
+}
+
+.hauptüberschrift{
+	text-align: center;
+	font-size: 150%;
+	font-weight: bold;
+	font-style: italic;
+	margin: 0 auto;
+	max-width: 90%;
+}
+
+.main-headline{
+	margin:0 auto;
+	max-width: 90%;
+}
+
+.description{
+	margin: 0 auto;
+	max-width: 90%;
+}
+
+h3{
+	font-size: 18px;
+}
+
+.anweisung{
+	margin: 0 auto;
+    background-color: #e7e7e7;
+    padding: 50px;
+    border: 6px solid #163776;
+    border-radius: 15px;
+	max-width: 90%;
+}
+
+.anw-text{
+	line-height: 22pt;
+	max-width: 90%;
+}
+
+.btn-fragen{
+	float: right;
+    margin: 0 auto;
+    padding: 6px 10px;
+    font-size: 15pt;
+	max-width: 90%;
+}
+
+.fragen{
+	margin: 0 auto;
+    font-size: 13pt;
+}
+
+
+
+.check{
+	margin-left: 120px;
+	margin-right: 870px;
+	font-style: italic;
+}
+
+.btn-check{
+	float: right;
+    margin-right: 50px;
+    padding: 6px 10px;
+    font-size: 15pt;
+    text-align: central;
+    
+}
+
+.test{
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 0 auto;
+}
